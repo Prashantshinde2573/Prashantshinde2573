@@ -1,7 +1,8 @@
 # 💫 About Me:
 👩‍💻As a recent MCA post graduate with a strong passion for software development and web development, I am eager to begin my professional journey in the tech industry. I have hands-on experience with various programming languages including Java, Python,Php and JavaScript gained through academic projects, Certification and personal projects.<br>I thrive in collaborative environments and enjoy tackling complex problems with innovative solutions. My key strengths include:<br>🙌🙌🙌🙌🙌🙌<br> # Proficiency in coding and debugging👩‍💻👩‍💻👩‍💻<br> # Strong understanding of data structures and <br> algorithms👌👌👌👌<br> # Experience with web development frameworks <br> and tools📲📲📲<br> # Ability to learn new technologies quickly.😎😎😎😎<br>
 
-![IMG20240114165342-01-01 1](https://github.com/Prashantshinde2573/Prashantshinde2573/assets/156752791/58e7e2cb-4f6e-47fe-91d6-34238fd5d4b4)
+!![PicsArt_01-24-08 34 06](https://github.com/Prashantshinde2573/Prashantshinde2573/assets/156752791/f42b037f-fead-4630-8e95-55f23a569303)
+
 
 
 ## 🌐 Socials:
